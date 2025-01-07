@@ -87,7 +87,7 @@ The mouse Bulk RNA sequencing dataset with the accession ID **[GSE76205](https:/
   - **Analysis conducted:**
     - Temporal dynamics of immune cell infiltration in CS-exposed mouse lungs.
     - A two-way analysis of variance (**ANOVA**) test, followed by a **post-hoc Tukey multiple comparison test**.
-    - 
+      
 **Figures:**
 - [Temporal dynamics of CS-induced immune cell responses in mouse lungs](Assets/immunecellAI_gragh.jpg)
 
