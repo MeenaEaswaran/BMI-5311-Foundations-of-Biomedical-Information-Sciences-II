@@ -8,7 +8,7 @@ This repository contains details about the **bioinformatics project performed us
 ## Project Overview
 
 ### 1. Data Retrieval
-The mouse  Bulk RNA sequencing datase with the the accession ID **[GSE76205](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE76205)** was accessed through the **National Center for Biotechnology Information Gene Expression Omnibus (NCBI GEO)**. 
+The mouse Bulk RNA sequencing dataset with the accession ID **[GSE76205](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE76205)** was accessed through the **National Center for Biotechnology Information Gene Expression Omnibus (NCBI GEO)**. 
 - Raw and normalized count data wer retrieved using the NIH LINCS tool **[GREIN:GEO RNA-seq Experiments Interactive Navigator](https://www.ilincs.org/apps/grein/?gse=)**.
 
 - **Sample groups and sizes:**
