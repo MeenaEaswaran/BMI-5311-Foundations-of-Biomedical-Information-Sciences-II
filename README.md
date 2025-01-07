@@ -36,13 +36,13 @@ The mouse  Bulk RNA sequencing datase with the the accession ID **[GSE76205](htt
 - R scripts can be found in this [folder]().
   
 **Figures:**
-- [DEG Bar Plot](Assets/DEG_limma.png)
-- [IQOS-exposed vs. Control Volcano Plot](Assets/volcanoplot_IQOS_control.png)
-- [IQOS-exposed vs. CS-exposed Volcano Plot](Assets/volcanoplot_IQOS_CS.png)
-- [DEG Venn Diagram](Assets/Venn_DEG.png)
-- [Gene Ontology Biological Process Enrichment Tree plot](Assets/GOBP.png)
-- [KEGG Enrichment Tables](Assets/KEGG_enrichments_tables.pdf)
-
+- [1 day CS-exposed vs. 1 day Control Volcano Plot](Assets/1dayCSvsAir.png)
+- [7 day CS-exposed vs. 7 day Control Volcano Plot](Assets/7dayCSvsAir.png)
+- [1 month CS-exposed vs. 1 month Control Volcano Plot](Assets/1monthCSvsAir.png)
+- [3 month CS-exposed vs. 3 month Control Control Volcano Plot](Assets/3monthCSvsAir.png)
+- [6 month CS-exposed vs. 6 month Control Volcano Plot](Assets/6monthCSvsAir.png)
+- [9 month CS-exposed vs. 9 month Control Volcano Plot](Assets/9monthCSvsAir.png)
+  
   ---
 
 ### 3. Functional Enrichment Analysis
@@ -56,23 +56,25 @@ The mouse  Bulk RNA sequencing datase with the the accession ID **[GSE76205](htt
   - Minimum enrichment factor = 1.5
   
 **Figures:**
-- [WGCNA Coexpressed Gene Modules and Enrichment](Assets/WGCNA_coexpressed_gene_modules_and_enrichment.png)
-- [Apoptosis StringDB PPI](Assets/apoptosis_onlyterms_38_stringDB.png)
-- [Cytokine Production StringDB PPI](Assets/cytokine_production_onlyterms_28_stringDB.png)
-
+- [Comparative functional enrichment analysis-Heatmap](Assets/HeatmapSelectedGO.png)
+  
 ---
 
 ### 4. Network Analysis and Hub Gene Identification
 - **Tools used:**
-  - **[StringDB version 12](https://string-db.org/)** for network visualization.
+  - **[StringDB version 12](https://string-db.org/)** for protein-protein interaction (PPI) network visualization.
   - **[Cytoscape](https://cytoscape.org/)** for network visualization and hub gene analysis.
-    - Maximal clique centrality (MCC) algorithm from the cytoHubba plugin was utilized to determine the top ten hub genes in each network.
+    - Maximal clique centrality (MCC) algorithm from the cytoHubba plugin was utilized to determine the top ten hub genes in each PPI.
 
 **Figures:**
-- [WGCNA Coexpressed Gene Modules and Enrichment](Assets/WGCNA_coexpressed_gene_modules_and_enrichment.png)
-- [Apoptosis StringDB PPI](Assets/apoptosis_onlyterms_38_stringDB.png)
-- [Cytokine Production StringDB PPI](Assets/cytokine_production_onlyterms_28_stringDB.png)
-
+- [Top ten hub genes in the regulation of inflammation PPI](Assets/inflammatoryresponse_hubgene.png)
+- [Top ten hub genes in the regulation of cytokine production PPI](Assets/cytokineproduction_hubgene.png)
+- [Top ten hub genes in the regulation of chemotaxis PPI](Assets/chemotaxis_regulation_hubgene.png)
+- [Top ten hub genes in the regulation of cell migration PPI](Assets/cellmigration_hubgenes.png)
+- [Top ten hub genes in the immune receptor activity PPI](Assets/immunereceptoractivity_hubgene.png)
+- [Top ten hub genes in the lymphocyte activation PPI](Assets/lymphocyteacrtivation_hubgene.png)
+- [Top ten hub genes in the extracellular matrix PPI](Assets/ECM_hubgenes.png)
+  
 ---
 
 ### 5. ImmuneCellAI analysis
@@ -87,9 +89,7 @@ The mouse  Bulk RNA sequencing datase with the the accession ID **[GSE76205](htt
     - A two-way analysis of variance (**ANOVA**) test, followed by a **post-hoc Tukey multiple comparison test**.
     - 
 **Figures:**
-- [WGCNA Coexpressed Gene Modules and Enrichment](Assets/WGCNA_coexpressed_gene_modules_and_enrichment.png)
-- [Apoptosis StringDB PPI](Assets/apoptosis_onlyterms_38_stringDB.png)
-- [Cytokine Production StringDB PPI](Assets/cytokine_production_onlyterms_28_stringDB.png)
+- [Temporal dynamics of CS-induced immune cell responses in mouse lungs](Assets/immunecellAI_gragh.jpg)
 
 ---
 
@@ -128,6 +128,6 @@ If you use the tools or dataset mentioned in this repository in your research, p
 
 ---
 
-For questions or issues, please contact the repository maintainer. Refer to the [final class paper](Assets/BMI6313_Final_Poster_Meena_Easwaran.pdf) for detailed information and results.
+For questions or issues, please contact the repository maintainer. Refer to the [final class paper](Assets/Easwaran_Meena_Journal_paper.pdf) for detailed information and results.
 
 This repository is **solely for educational purposes and serves as a backup** for my graduate school assignments related to the **BMI 5311: Foundations of Biomedical Information Sciences II** course at McWilliams School of Biomedical Informatics at UTHealth Houston.
