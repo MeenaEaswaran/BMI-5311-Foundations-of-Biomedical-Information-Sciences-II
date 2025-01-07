@@ -20,7 +20,7 @@ The mouse Bulk RNA sequencing dataset with the accession ID **[GSE76205](https:/
 ---
 
 ### 2. Differential Expression Analysis
-- **Tools used:** DESeq2 R package for differential expression analysis and EnhancedVolcano R package.
+- **Tools used:** DESeq2 R package for differential expression analysis and EnhancedVolcano R package for data visualization.
     
   1. 1 day CS-exposed vs. 1 day Control
   2. 7 day CS-exposed vs. 7 day Control
