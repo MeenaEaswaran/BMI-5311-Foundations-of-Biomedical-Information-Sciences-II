@@ -128,6 +128,6 @@ If you use the tools or dataset mentioned in this repository in your research, p
 
 ---
 
-For questions or issues, please contact the repository maintainer. Refer to the [final class paper](Assets/Easwaran_Meena_Journal_paper.pdf) for detailed information and results.
+For questions or issues, please contact the repository maintainer. Refer to the [final course paper](Assets/Easwaran_Meena_Journal_paper.pdf) for detailed information and results.
 
 This repository is **solely for educational purposes and serves as a backup** for my graduate school assignments related to the **BMI 5311: Foundations of Biomedical Information Sciences II** course at McWilliams School of Biomedical Informatics at UTHealth Houston.
