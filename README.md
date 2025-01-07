@@ -10,8 +10,9 @@ This repository contains details about the **bioinformatics project performed us
 ### 1. Data Retrieval
 The mouse  Bulk RNA sequencing datase with the the accession ID **[GSE76205](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE76205)** was accessed through the **National Center for Biotechnology Information Gene Expression Omnibus (NCBI GEO)**. 
 - Raw and normalized count data wer retrieved using the NIH LINCS tool **[GREIN:GEO RNA-seq Experiments Interactive Navigator](https://www.ilincs.org/apps/grein/?gse=)**.
-- **Sample groups and sizes:** 
-  - Regarding sample sizes, on day one, there were five samples from the control group and four from the Cigarette smmoke (CS)-exposed group.
+
+- **Sample groups and sizes:**
+    - Regarding sample sizes, on day one, there were five samples from the control group and four from the Cigarette smmoke (CS)-exposed group.
   - At seven days, both control and CS-exposed groups had five samples each.
   - For the one-month and three-month intervals, the sample sizes remained consistent at five for each group.
   - The control group comprised four samples at six and nine months, while the CS-exposed group included five. 
@@ -19,7 +20,7 @@ The mouse  Bulk RNA sequencing datase with the the accession ID **[GSE76205](htt
 ---
 
 ### 2. Differential Expression Analysis
-- **Tools used:** DESeq2 R package for differential expression analysis and [EnhancedVolcano](10.18129/B9.bioc.EnhancedVolcano) R package 
+- **Tools used:** DESeq2 R package for differential expression analysis and EnhancedVolcano R package.
   
   1. 1 day CS-exposed vs. 1 day Control
   2. 7 day CS-exposed vs. 7 day Control
@@ -49,7 +50,7 @@ The mouse  Bulk RNA sequencing datase with the the accession ID **[GSE76205](htt
 
 - **Key Parameters for Enrichment Significance:**
   - Minimum gene overlap = 3
-  - enrichment p-value cutoff = 0.05
+  - Enrichment p-value cutoff = 0.05
   - Minimum enrichment factor = 1.5
   
 **Figures:**
