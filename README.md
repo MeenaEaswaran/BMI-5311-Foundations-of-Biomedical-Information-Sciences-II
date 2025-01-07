@@ -12,7 +12,7 @@ The mouse Bulk RNA sequencing dataset with the accession ID **[GSE76205](https:/
 - Raw and normalized count data wer retrieved using the NIH LINCS tool **[GREIN:GEO RNA-seq Experiments Interactive Navigator](https://www.ilincs.org/apps/grein/?gse=)**.
 
 - **Sample groups and sizes:**
-  - At day one, there were five samples from the control group and four from the Cigarette smmoke (CS)-exposed group.
+  - At day one, there were five samples from the control group and four from the Cigarette smoke (CS)-exposed group.
   - At seven days, both control and CS-exposed groups had five samples each.
   - For the one-month and three-month intervals, the sample sizes remained consistent at five for each group.
   - The control group comprised four samples at six and nine months, while the CS-exposed group included five. 
