@@ -33,7 +33,7 @@ The mouse  Bulk RNA sequencing datase with the the accession ID **[GSE76205](htt
    - False Discovery Rate (FDR) ≤ 0.05
    - |Fold Change| > 1.5
      
-- R scripts can be found in this [folder](R Scripts).
+- R scripts can be found in this [folder](scripts).
   
 **Figures:**
 - [1 day CS-exposed vs. 1 day Control Volcano Plot](Assets/1dayCSvsAir.png)
