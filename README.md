@@ -21,7 +21,7 @@ The mouse  Bulk RNA sequencing datase with the the accession ID **[GSE76205](htt
 
 ### 2. Differential Expression Analysis
 - **Tools used:** DESeq2 R package for differential expression analysis and EnhancedVolcano R package.
-  
+    
   1. 1 day CS-exposed vs. 1 day Control
   2. 7 day CS-exposed vs. 7 day Control
   3. 1 month CS-exposed vs. 1 month Control
@@ -32,7 +32,9 @@ The mouse  Bulk RNA sequencing datase with the the accession ID **[GSE76205](htt
  - **Criteria for Differentially Expressed Genes (DEGs):**
    - False Discovery Rate (FDR) ≤ 0.05
    - |Fold Change| > 1.5
-
+     
+- R scripts can be found in this [folder]().
+  
 **Figures:**
 - [DEG Bar Plot](Assets/DEG_limma.png)
 - [IQOS-exposed vs. Control Volcano Plot](Assets/volcanoplot_IQOS_control.png)
