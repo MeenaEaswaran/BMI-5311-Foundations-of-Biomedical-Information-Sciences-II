@@ -36,12 +36,29 @@ The mouse Bulk RNA sequencing dataset with the accession ID **[GSE76205](https:/
 - R scripts can be found in this [folder](scripts).
   
 **Figures:**
-- [1 day CS-exposed vs. 1 day Control Volcano Plot](Assets/1dayCSvsAir.png)
-- [7 day CS-exposed vs. 7 day Control Volcano Plot](Assets/7dayCSvsAir.png)
-- [1 month CS-exposed vs. 1 month Control Volcano Plot](Assets/1monthCSvsAir.png)
-- [3 month CS-exposed vs. 3 month Control Control Volcano Plot](Assets/3monthCSvsAir.png)
-- [6 month CS-exposed vs. 6 month Control Volcano Plot](Assets/6monthCSvsAir.png)
-- [9 month CS-exposed vs. 9 month Control Volcano Plot](Assets/9monthCSvsAir.png)
+## 1 day CS-exposed vs. 1 day Control Volcano Plot
+
+![1 day CS-exposed vs. 1 day Control Volcano Plot](Assets/1dayCSvsAir.png)
+
+## 7 day CS-exposed vs. 7 day Control Volcano Plot
+
+![7 day CS-exposed vs. 7 day Control Volcano Plot](Assets/7dayCSvsAir.png)
+
+## 1 month CS-exposed vs. 1 month Control Volcano Plot
+
+![1 month CS-exposed vs. 1 month Control Volcano Plot](Assets/1monthCSvsAir.png)
+
+## 3 month CS-exposed vs. 3 month Control Volcano Plot
+
+![3 month CS-exposed vs. 3 month Control Volcano Plot](Assets/3monthCSvsAir.png)
+
+## 6 month CS-exposed vs. 6 month Control Volcano Plot
+
+![6 month CS-exposed vs. 6 month Control Volcano Plot](Assets/6monthCSvsAir.png)
+
+## 9 month CS-exposed vs. 9 month Control Volcano Plot
+
+![9 month CS-exposed vs. 9 month Control Volcano Plot](Assets/9monthCSvsAir.png)
   
   ---
 
@@ -56,7 +73,9 @@ The mouse Bulk RNA sequencing dataset with the accession ID **[GSE76205](https:/
   - Minimum enrichment factor = 1.5
   
 **Figures:**
-- [Comparative functional enrichment analysis-Heatmap](Assets/HeatmapSelectedGO.png)
+## Comparative Functional Enrichment Analysis Heatmap
+
+![Comparative Functional Enrichment Analysis Heatmap](Assets/HeatmapSelectedGO.png)
   
 ---
 
@@ -67,13 +86,33 @@ The mouse Bulk RNA sequencing dataset with the accession ID **[GSE76205](https:/
     - Maximal clique centrality (MCC) algorithm from the cytoHubba plugin was utilized to determine the top ten hub genes in each PPI.
 
 **Figures:**
-- [Top ten hub genes in the regulation of inflammation PPI](Assets/inflammatoryresponse_hubgene.png)
-- [Top ten hub genes in the regulation of cytokine production PPI](Assets/cytokineproduction_hubgene.png)
-- [Top ten hub genes in the regulation of chemotaxis PPI](Assets/chemotaxis_regulation_hubgene.png)
-- [Top ten hub genes in the regulation of cell migration PPI](Assets/cellmigration_hubgenes.png)
-- [Top ten hub genes in the immune receptor activity PPI](Assets/immunereceptoractivity_hubgene.png)
-- [Top ten hub genes in the lymphocyte activation PPI](Assets/lymphocyteacrtivation_hubgene.png)
-- [Top ten hub genes in the extracellular matrix PPI](Assets/ECM_hubgenes.png)
+## Top Ten Hub Genes in the Regulation of Inflammation PPI
+
+![Top Ten Hub Genes in the Regulation of Inflammation PPI](Assets/inflammatoryresponse_hubgene.png)
+
+## Top Ten Hub Genes in the Regulation of Cytokine Production PPI
+
+![Top Ten Hub Genes in the Regulation of Cytokine Production PPI](Assets/cytokineproduction_hubgene.png)
+
+## Top Ten Hub Genes in the Regulation of Chemotaxis PPI
+
+![Top Ten Hub Genes in the Regulation of Chemotaxis PPI](Assets/chemotaxis_regulation_hubgene.png)
+
+## Top Ten Hub Genes in the Regulation of Cell Migration PPI
+
+![Top Ten Hub Genes in the Regulation of Cell Migration PPI](Assets/cellmigration_hubgenes.png)
+
+## Top Ten Hub Genes in Immune Receptor Activity PPI
+
+![Top Ten Hub Genes in Immune Receptor Activity PPI](Assets/immunereceptoractivity_hubgene.png)
+
+## Top Ten Hub Genes in Lymphocyte Activation PPI
+
+![Top Ten Hub Genes in Lymphocyte Activation PPI](Assets/lymphocyteacrtivation_hubgene.png)
+
+## Top Ten Hub Genes in the Extracellular Matrix PPI
+
+![Top Ten Hub Genes in the Extracellular Matrix PPI](Assets/ECM_hubgenes.png)
   
 ---
 
@@ -89,7 +128,9 @@ The mouse Bulk RNA sequencing dataset with the accession ID **[GSE76205](https:/
     - A two-way analysis of variance (**ANOVA**) test, followed by a **post-hoc Tukey multiple comparison test**.
       
 **Figures:**
-- [Temporal dynamics of CS-induced immune cell responses in mouse lungs](Assets/immunecellAI_gragh.jpg)
+## Temporal Dynamics of CS-Induced Immune Cell Responses in Mouse Lungs
+
+![Temporal Dynamics of CS-Induced Immune Cell Responses in Mouse Lungs](Assets/immunecellAI_gragh.jpg)
 
 ---
 
