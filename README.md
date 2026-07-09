@@ -22,12 +22,12 @@ The mouse Bulk RNA sequencing dataset with the accession ID **[GSE76205](https:/
 ### 2. Differential Expression Analysis
 - **Tools used:** DESeq2 R package for differential expression analysis and EnhancedVolcano R package for data visualization.
     
-  1. 1 day CS-exposed vs. 1 day Control
-  2. 7 day CS-exposed vs. 7 day Control
-  3. 1 month CS-exposed vs. 1 month Control
-  4. 3 month CS-exposed vs. 3 month Control
-  5. 6 month CS-exposed vs. 6 month Control
-  6. 9 month CS-exposed vs. 9 month Control
+  1. 1 day CS-exposed vs. 1 day Air-exposed control
+  2. 7 day CS-exposed vs. 7 day Air-exposed control
+  3. 1 month CS-exposed vs. 1 month Air-exposed control
+  4. 3 month CS-exposed vs. 3 month Air-exposed control
+  5. 6 month CS-exposed vs. 6 month Air-exposed control
+  6. 9 month CS-exposed vs. 9 month Air-exposed control
      
  - **Criteria for Differentially Expressed Genes (DEGs):**
    - False Discovery Rate (FDR) ≤ 0.05
@@ -36,27 +36,27 @@ The mouse Bulk RNA sequencing dataset with the accession ID **[GSE76205](https:/
 - R scripts can be found in this [folder](scripts).
   
 **Figures:**
-## 1 day CS-exposed vs. Control Volcano Plot
+## 1 day CS-exposed vs. Air-exposed Control Volcano Plot
 
 ![1 day CS-exposed vs. 1 day Control Volcano Plot](Assets/1dayCSvsAir.png)
 
-## 7 day CS-exposed vs. Control Volcano Plot
+## 7 day CS-exposed vs. Air-exposed Control Volcano Plot
 
 ![7 day CS-exposed vs. 7 day Control Volcano Plot](Assets/7dayCSvsAir.png)
 
-## 1 month CS-exposed vs. Control Volcano Plot
+## 1 month CS-exposed vs. Air-exposed Control Volcano Plot
 
 ![1 month CS-exposed vs. 1 month Control Volcano Plot](Assets/1monthCSvsAir.png)
 
-## 3 month CS-exposed vs. Control Volcano Plot
+## 3 month CS-exposed vs. Air-exposed Control Volcano Plot
 
 ![3 month CS-exposed vs. 3 month Control Volcano Plot](Assets/3monthCSvsAir.png)
 
-## 6 month CS-exposed vs. Control Volcano Plot
+## 6 month CS-exposed vs. Air-exposed Control Volcano Plot
 
 ![6 month CS-exposed vs. 6 month Control Volcano Plot](Assets/6monthCSvsAir.png)
 
-## 9 month CS-exposed vs. Control Volcano Plot
+## 9 month CS-exposed vs. Air-exposed Control Volcano Plot
 
 ![9 month CS-exposed vs. 9 month Control Volcano Plot](Assets/9monthCSvsAir.png)
   
