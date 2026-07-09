@@ -36,27 +36,27 @@ The mouse Bulk RNA sequencing dataset with the accession ID **[GSE76205](https:/
 - R scripts can be found in this [folder](scripts).
   
 **Figures:**
-## 1 day CS-exposed vs. 1 day Control Volcano Plot
+## 1 day CS-exposed vs. Control Volcano Plot
 
 ![1 day CS-exposed vs. 1 day Control Volcano Plot](Assets/1dayCSvsAir.png)
 
-## 7 day CS-exposed vs. 7 day Control Volcano Plot
+## 7 day CS-exposed vs. Control Volcano Plot
 
 ![7 day CS-exposed vs. 7 day Control Volcano Plot](Assets/7dayCSvsAir.png)
 
-## 1 month CS-exposed vs. 1 month Control Volcano Plot
+## 1 month CS-exposed vs. Control Volcano Plot
 
 ![1 month CS-exposed vs. 1 month Control Volcano Plot](Assets/1monthCSvsAir.png)
 
-## 3 month CS-exposed vs. 3 month Control Volcano Plot
+## 3 month CS-exposed vs. Control Volcano Plot
 
 ![3 month CS-exposed vs. 3 month Control Volcano Plot](Assets/3monthCSvsAir.png)
 
-## 6 month CS-exposed vs. 6 month Control Volcano Plot
+## 6 month CS-exposed vs. Control Volcano Plot
 
 ![6 month CS-exposed vs. 6 month Control Volcano Plot](Assets/6monthCSvsAir.png)
 
-## 9 month CS-exposed vs. 9 month Control Volcano Plot
+## 9 month CS-exposed vs. Control Volcano Plot
 
 ![9 month CS-exposed vs. 9 month Control Volcano Plot](Assets/9monthCSvsAir.png)
   
