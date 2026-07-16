@@ -38,27 +38,27 @@ The mouse Bulk RNA sequencing dataset with the accession ID **[GSE76205](https:/
 **Figures:**
 ## 1 day CS-exposed vs. Air-exposed Control Volcano Plot
 
-![1 day CS-exposed vs. 1 day Control Volcano Plot](Assets/1dayCSvsAir.png)
+<img src="Assets/1dayCSvsAir.png" alt="1 day CS-exposed vs. 1 day Control Volcano Plot" width="500">
 
 ## 7 day CS-exposed vs. Air-exposed Control Volcano Plot
 
-![7 day CS-exposed vs. 7 day Control Volcano Plot](Assets/7dayCSvsAir.png)
+<img src="Assets/7dayCSvsAir.png" alt="7 day CS-exposed vs. 7 day Control Volcano Plot" width="500">
 
 ## 1 month CS-exposed vs. Air-exposed Control Volcano Plot
 
-![1 month CS-exposed vs. 1 month Control Volcano Plot](Assets/1monthCSvsAir.png)
+<img src="Assets/1monthCSvsAir.png" alt="1 month CS-exposed vs. 1 month Control Volcano Plot" width="500">
 
 ## 3 month CS-exposed vs. Air-exposed Control Volcano Plot
 
-![3 month CS-exposed vs. 3 month Control Volcano Plot](Assets/3monthCSvsAir.png)
+<img src="Assets/3monthCSvsAir.png" alt="3 month CS-exposed vs. 3 month Control Volcano Plot" width="500">
 
 ## 6 month CS-exposed vs. Air-exposed Control Volcano Plot
 
-![6 month CS-exposed vs. 6 month Control Volcano Plot](Assets/6monthCSvsAir.png)
+<img src="Assets/6monthCSvsAir.png" alt="6 month CS-exposed vs. 6 month Control Volcano Plot" width="500">
 
 ## 9 month CS-exposed vs. Air-exposed Control Volcano Plot
 
-![9 month CS-exposed vs. 9 month Control Volcano Plot](Assets/9monthCSvsAir.png)
+<img src="Assets/9monthCSvsAir.png" alt="9 month CS-exposed vs. 9 month Control Volcano Plot" width="500">
   
   ---
 
@@ -75,7 +75,7 @@ The mouse Bulk RNA sequencing dataset with the accession ID **[GSE76205](https:/
 **Figures:**
 ## Comparative Functional Enrichment Analysis Heatmap
 
-![Comparative Functional Enrichment Analysis Heatmap](Assets/HeatmapSelectedGO.png)
+<img src="Assets/HeatmapSelectedGO.png" alt="Comparative Functional Enrichment Analysis Heatmap" width="500">
   
 ---
 
@@ -88,31 +88,31 @@ The mouse Bulk RNA sequencing dataset with the accession ID **[GSE76205](https:/
 **Figures:**
 ## Top Ten Hub Genes in the Regulation of Inflammation PPI
 
-![Top Ten Hub Genes in the Regulation of Inflammation PPI](Assets/inflammatoryresponse_hubgene.png)
+<img src="Assets/inflammatoryresponse_hubgene.png" alt="Top Ten Hub Genes in the Regulation of Inflammation PPI" width="500">
 
 ## Top Ten Hub Genes in the Regulation of Cytokine Production PPI
 
-![Top Ten Hub Genes in the Regulation of Cytokine Production PPI](Assets/cytokineproduction_hubgene.png)
+<img src="Assets/cytokineproduction_hubgene.png" alt="Top Ten Hub Genes in the Regulation of Cytokine Production PPI" width="500">
 
 ## Top Ten Hub Genes in the Regulation of Chemotaxis PPI
 
-![Top Ten Hub Genes in the Regulation of Chemotaxis PPI](Assets/chemotaxis_regulation_hubgene.png)
+<img src="Assets/chemotaxis_regulation_hubgene.png" alt="Top Ten Hub Genes in the Regulation of Chemotaxis PPI" width="500">
 
 ## Top Ten Hub Genes in the Regulation of Cell Migration PPI
 
-![Top Ten Hub Genes in the Regulation of Cell Migration PPI](Assets/cellmigration_hubgenes.png)
+<img src="Assets/cellmigration_hubgenes.png" alt="Top Ten Hub Genes in the Regulation of Cell Migration PPI" width="500">
 
 ## Top Ten Hub Genes in Immune Receptor Activity PPI
 
-![Top Ten Hub Genes in Immune Receptor Activity PPI](Assets/immunereceptoractivity_hubgene.png)
+<img src="Assets/immunereceptoractivity_hubgene.png" alt="Top Ten Hub Genes in Immune Receptor Activity PPI" width="500">
 
 ## Top Ten Hub Genes in Lymphocyte Activation PPI
 
-![Top Ten Hub Genes in Lymphocyte Activation PPI](Assets/lymphocyteacrtivation_hubgene.png)
+<img src="Assets/lymphocyteacrtivation_hubgene.png" alt="Top Ten Hub Genes in Lymphocyte Activation PPI" width="500">
 
 ## Top Ten Hub Genes in the Extracellular Matrix PPI
 
-![Top Ten Hub Genes in the Extracellular Matrix PPI](Assets/ECM_hubgenes.png)
+<img src="Assets/ECM_hubgenes.png" alt="Top Ten Hub Genes in the Extracellular Matrix PPI" width="500">
   
 ---
 
@@ -130,7 +130,7 @@ The mouse Bulk RNA sequencing dataset with the accession ID **[GSE76205](https:/
 **Figures:**
 ## Temporal Dynamics of CS-Induced Immune Cell Responses in Mouse Lungs
 
-![Temporal Dynamics of CS-Induced Immune Cell Responses in Mouse Lungs](Assets/immunecellAI_gragh.jpg)
+<img src="Assets/immunecellAI_gragh.jpg" alt="Temporal Dynamics of CS-Induced Immune Cell Responses in Mouse Lungs" width="500">
 
 ---
 
