@@ -20,7 +20,7 @@ The mouse Bulk RNA sequencing dataset with the accession ID **[GSE76205](https:/
 ---
 
 ### 2. Differential Expression Analysis
-- **Tools used:** DESeq2 R package for differential expression analysis and EnhancedVolcano R package for data visualization.
+- **Packages used:** DESeq2 R package for differential expression analysis and EnhancedVolcano R package for data visualization.
     
   1. 1 day CS-exposed vs. 1 day Air-exposed control
   2. 7 day CS-exposed vs. 7 day Air-exposed control
@@ -63,7 +63,7 @@ The mouse Bulk RNA sequencing dataset with the accession ID **[GSE76205](https:/
   ---
 
 ### 3. Functional Enrichment Analysis
-- **Tools used:**
+- **Analytical Tools used:**
   - **[Metascape](https://metascape.org/gp/index.html#/main/step1)** was used for comparative analysis across experimental timepoints.
   - GO Biological Process (BP), Cellular Compartment (CC), and Molecular Function (MF) and KEGG pathway enrichments.
 
@@ -80,7 +80,7 @@ The mouse Bulk RNA sequencing dataset with the accession ID **[GSE76205](https:/
 ---
 
 ### 4. Network Analysis and Hub Gene Identification
-- **Tools used:**
+- **Analytical Tools used:**
   - **[StringDB version 12](https://string-db.org/)** for protein-protein interaction (PPI) network visualization.
   - **[Cytoscape](https://cytoscape.org/)** for network visualization and hub gene analysis.
     - Maximal clique centrality (MCC) algorithm from the cytoHubba plugin was utilized to determine the top ten hub genes in each PPI.
@@ -117,7 +117,7 @@ The mouse Bulk RNA sequencing dataset with the accession ID **[GSE76205](https:/
 ---
 
 ### 5. ImmuneCellAI analysis
-- **Tools used:**
+- **Analytical Tool used:**
   - **[ImmuneCellAI-mouse](https://guolab.wchscu.cn/ImmuCellAI-mouse//#!/)** to determine immune cell types from gene expression data.
   - Input data were derived from normalized gene expression counts obtained via **GREIN**.
 
