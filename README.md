@@ -65,7 +65,7 @@ The mouse Bulk RNA sequencing dataset with the accession ID **[GSE76205](https:/
 ### 3. Functional Enrichment Analysis
 - **Analytical Tools used:**
   - **[Metascape](https://metascape.org/gp/index.html#/main/step1)** was used for comparative analysis across experimental timepoints.
-  - GO Biological Process (BP), Cellular Compartment (CC), and Molecular Function (MF) and KEGG pathway enrichments.
+  - GO Biological Process (BP), Cellular Compartment (CC), and Molecular Function (MF), and KEGG pathway enrichments.
 
 - **Key Parameters for Enrichment Significance:**
   - Minimum gene overlap = 3
